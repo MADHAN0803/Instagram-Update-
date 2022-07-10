@@ -1,0 +1,28 @@
+                         conditional statements
+                         ======================
+	
+	1. if
+       =======
+	 Given condition is true the statement will be executed
+	 suppose condition is wrong the statement will be completely wrong
+	
+	2.if else 
+        ==========
+	 The statement inside "if" would execute the condition is true
+	 the statement inside "else" would execute if condition is wrong.
+	
+	3.if else if
+        =============
+	  The statement is used when need to check the multiple conditions
+	  In this Statement we have only one "if" Statement and one "else" statement
+	  It is also known as if else if ladder
+	
+        4.Switch case
+        ==============
+        Switch case also similar to "if else if" but when we have number of options.we may use this only.
+	
+             
+          https://amazonmak.atlassian.net/browse/AM-1
+
+
+        https://amazonmak.atlassian.net/jira/software/projects/FLIP/boards/1
